@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+config.ini
+job_gap_analyzer.py
+gap_analysis.txt
